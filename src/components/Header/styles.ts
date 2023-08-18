@@ -15,6 +15,7 @@ export const Header = styled.header`
       height: 100%;
     }
   }
+ 
 `
 
 export const NavBar = styled.nav`

@@ -15,7 +15,7 @@ export function Header() {
             <a href="/">Página Inicial</a>
           </li>
           <li>
-            <a href="/list">Álbuns</a>
+            <a href="/albuns">Álbuns</a>
           </li>
         </ul>
       </S.NavBar>

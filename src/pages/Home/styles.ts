@@ -20,6 +20,33 @@ export const Section = styled.section`
   
  }
 
+ @media(max-width: 1160px){
+  img{
+    width: 80%;
+    height: 70%;
+  };
+}
+
+  @media(max-width: 910px){
+  img{
+    width: 85%;
+    height: 80%;
+  }
+  p{
+    font-size: medium;
+  }  
+  }
+
+  @media(max-width: 660px){
+  img{
+    width: 85%;
+    height: 50%;
+  }
+  flex-direction: column;
+  p{
+    font-size: smaller;
+  }  
+  }
 `
 
 
