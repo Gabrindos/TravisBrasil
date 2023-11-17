@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from "styled-components"
+import { createGlobalStyle } from "styled-components"
 
 export const GlobalStyle = createGlobalStyle`
   * {
@@ -10,6 +10,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 `
 export const colors = {
+  
   primary: "#2B75E2",
   secondary: "#FFC107",
   secondaryLight: "#605A5A",
